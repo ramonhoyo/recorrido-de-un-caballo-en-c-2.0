@@ -1,5 +1,5 @@
 /*
-	----LICENCE------------
+	----LICENCE------------ 
 	
 	This file is part of poker.
   Copyright (C) 2016 by Ramon A. hoyo
